@@ -1,0 +1,58 @@
+:root{
+    --fondo-p: #04009A;
+    --letra-p: #F0EBCC;
+    --c1-p: #77ACF1;
+    --c3-p:#3EDBF0;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    padding: 7%;
+    background-color: var(--fondo-p);
+    font-size: 30px;
+}
+h1,h2{
+    color: var(--letra-p);
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+}
+p{
+    color: var(--letra-p);
+    text-align: inherit;
+}
+b{
+    color: var(--letra-p);
+    display: inline;
+}
+img{
+    width: 16%;
+    height: 8%;
+}
+.perro{
+    float: left;
+}
+.coyo
+{
+    float: right;
+}
+audio{
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+cite
+{
+    background-color: var(--c1-p);
+    display: block;
+    align-self: center;
+}
+.fb-comments
+{
+    background-color: blanchedalmond;
+}
+option{
+    margin-bottom: 20px;
+}
