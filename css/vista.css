@@ -20,7 +20,7 @@ h1,h2{
     display: block;
     margin-bottom: 20px;
 }
-p{
+p,ol{
     color: var(--letra-p);
     text-align: inherit;
 }
@@ -55,4 +55,7 @@ cite
 }
 option{
     margin-bottom: 20px;
+}
+li{
+    margin-bottom: 10px;
 }
