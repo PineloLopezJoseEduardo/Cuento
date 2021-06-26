@@ -45,6 +45,7 @@ audio{
 }
 cite
 {
+    margin-top: 40px;
     background-color: var(--c1-p);
     display: block;
     align-self: center;
