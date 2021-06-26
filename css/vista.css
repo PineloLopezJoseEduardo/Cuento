@@ -49,7 +49,7 @@ cite
     display: block;
     align-self: center;
 }
-.disqus_thread
+#disqus_thread
 {
     background-color: blanchedalmond;
 }
