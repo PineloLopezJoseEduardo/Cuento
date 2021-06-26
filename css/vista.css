@@ -45,11 +45,11 @@ audio{
 }
 cite
 {
+    margin-bottom: 40px;
+    margin-top: 40px;
     background-color: var(--c1-p);
     display: block;
     align-self: center;
-    margin-bottom: 40px;
-    margin-top: 40px;
 }
 #disqus_thread
 {
